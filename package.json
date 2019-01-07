@@ -27,7 +27,8 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
+    "prep": "rm -rf ~/projects/anyonecancode.github.io/* && cp -r public/ ~/projects/anyonecancode.github.io/"
   },
   "devDependencies": {
     "prettier": "^1.15.2"
