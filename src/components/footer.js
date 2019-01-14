@@ -12,7 +12,7 @@ const Footer = () => (
       .
     </p>
     <p>
-      You can reach my through{' '}
+      You can reach me via{' '}
       <a href="https://www.linkedin.com/in/philipschweiger/">LinkedIn</a> or at
       the email on my{' '}
       <a href={withPrefix('/files/schweiger_resume.pdf')}>resume</a>.
