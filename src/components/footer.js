@@ -1,4 +1,5 @@
 import React from 'react'
+import { withPrefix } from 'gatsby'
 
 const Footer = () => (
   <footer>
@@ -13,7 +14,8 @@ const Footer = () => (
     <p>
       You can reach my through{' '}
       <a href="https://www.linkedin.com/in/philipschweiger/">LinkedIn</a> or at
-      the email on my <a href="tkputk">resume</a>.
+      the email on my{' '}
+      <a href={withPrefix('/files/schweiger_resume.pdf')}>resume</a>.
     </p>
   </footer>
 )
