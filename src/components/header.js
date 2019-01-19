@@ -16,7 +16,7 @@ const Header = () => (
     `}
     render={data => (
       <>
-        <header>
+        <header id="siteheader">
           <h1>
             <Link to="/">{data.site.siteMetadata.title}</Link>
           </h1>
