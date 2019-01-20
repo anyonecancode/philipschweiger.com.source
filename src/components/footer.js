@@ -20,7 +20,7 @@ const Footer = () => (
       <a href={withPrefix('/files/schweiger_resume.pdf')}>resume</a>.
     </p>
 
-    <p>
+    <p className="hidden">
       Looking for more on this site? Browse all my{' '}
       <Link to="/posts">posts</Link>, or maybe just the post where I talk a bit{' '}
       <Link to="/posts/about">about</Link> myself or explain my{' '}
