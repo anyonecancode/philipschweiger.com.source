@@ -2,6 +2,7 @@
 path: "/posts/anyonecancode"
 date: "2018-01-12"
 title: "Anyone Can Code?"
+blurb: "Software engineering should be more like a Pixar film"
 ---
 
 The inspiration for my username is the Pixar film [Ratatouille](https://en.wikipedia.org/wiki/Ratatouille_(film)), a story about rat named Remy with a passion for cooking. Being a rat, he has a rough go of it. All his fellow rats just see food as fuel, and every human Remy encounters sees nothing but a rat. Nonetheless, Remy persists, inspired by the motto of chef Auguste Gusteau: "Anyone can cook."
