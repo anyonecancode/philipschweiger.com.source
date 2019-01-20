@@ -29,7 +29,7 @@
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\"",
-    "prep": "mv ~/projects/anyonecancode.github.io/CNAME /tmp && rm -rf ~/projects/anyonecancode.github.io/* && cp -r public/ ~/projects/anyonecancode.github.io/ && mv /tmp/CNAME ~/projects/anyonecancode.github.io/"
+    "prep": "SITE=philipschweiger.com.dist && mv ~/projects/$SITE/CNAME /tmp && rm -rf ~/projects/$SITE/* && cp -r public/ ~/projects/$SITE/ && mv /tmp/CNAME ~/projects/$SITE/"
   },
   "devDependencies": {
     "prettier": "^1.15.2"
