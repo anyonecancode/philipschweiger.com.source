@@ -55,7 +55,7 @@ header
 
 main {
   max-width: 35em;
-  padding: 0 1.0875rem 1.45rem;
+  padding: 0 1.0875rem;
 }
 
 footer {
@@ -98,10 +98,19 @@ article
       font-style: italic;
     }
 
+article.listing {
+  margin:0 0 2em;
+}
+
 article.listing
   h3 {
-    margin: 0;
+    margin: 0 0 0.2em;
     padding: 0;
+  }
+
+article.listing
+  p {
+    margin: 0.2em 0;
   }
 
 .hidden {
