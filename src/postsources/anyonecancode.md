@@ -9,7 +9,7 @@ The inspiration for my username is the Pixar film [Ratatouille](https://en.wikip
 
 Becoming a software engineer has been much easier, in comparison. Yes, a liberal arts background is less traditional than a comp-sci degree, but it's not _that_ unusual, particularly on the web-dev end of things. A handful of my colleagues have had no college degree at all. (One of them has gone on to work at a high level in one of the big tech companies.)
 
-I supposed I could claim that I'm "self-taught," but that only feels true in a very narrow sense. Between all the [List Apart](https://alistapart.com/) articles, [Stack Overflow](https://stackoverflow.com/) posts, tech meetups, books read, and colleagues I've worked with, it feels disingenuous bordering on dishonest to call myself "self-taught." If anything, I've had an embarrassing richness of teachers.
+I suppose I could claim that I'm "self-taught," but that only feels true in a very narrow sense. Between all the [List Apart](https://alistapart.com/) articles, [Stack Overflow](https://stackoverflow.com/) posts, tech meetups, books read, and colleagues I've worked with, it feels disingenuous bordering on dishonest to call myself "self-taught." If anything, I've had an embarrassing richness of teachers.
 
 So I'm inspired by Remy's story, but his story isn't mine. The welcome that I found in the web development community when I was first starting out is markedly different than the challenges faced by a rat who wants to be a chef.
 
