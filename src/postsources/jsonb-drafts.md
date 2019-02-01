@@ -15,7 +15,7 @@ Category: Food
 Sub_Category: Baked Goods
 Supplier: Pop Up Cafe Supply Co.
 Cost: 2.00 USD
-Customer Price: 3.50 USD
+Customer_Price: 3.50 USD
 Description: One of our best sellers, this perfectly-textured,
   just-the-right-sweetness coffee cake is the perfect accompaniment
   to your morning joe!
