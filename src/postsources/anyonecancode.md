@@ -1,6 +1,6 @@
 ---
 path: "/posts/anyonecancode"
-date: "2018-01-12"
+date: "2019-01-12"
 title: "Anyone Can Code?"
 blurb: "Software engineering should be more like a Pixar film"
 ---
