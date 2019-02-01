@@ -19,4 +19,4 @@ My strongest language is JavaScript, thanks to my long experience with it. While
 
 Server-side, I like NGINX as a reverse proxy in front of either Express or Flask. I've also been expanding my Java portfolio, and while that language's reputation for clunky verbosity isn't entirely undeserved, I've found that leaning into its object orientation can give you quite of a bit of expressive power for representing business logic in code. For databases, I like PostgreSQL, though NoSQL can be a better fit for some situations. For deploying the whole thing, I'm a big fan of Docker.
 
-If you're looking to get in touch with me, you can reach me through my [LinkedIn](https://www.linkedin.com/in/philipschweiger/) or at the email on my [resume](http://localhost:8000/files/schweiger_resume.pdf).
+If you're looking to get in touch, you can reach me through my [LinkedIn](https://www.linkedin.com/in/philipschweiger/) or at the email on my [resume](http://localhost:8000/files/schweiger_resume.pdf).
