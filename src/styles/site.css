@@ -5,7 +5,7 @@ html {
 }
 
 html {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "open sans", sans-serif;
   color: #333;
 }
 
@@ -54,8 +54,9 @@ header
   }
 
 main {
-  max-width: 35em;
+  max-width: 38em;
   padding: 0 1.0875rem;
+  line-height: 1.4rem;
 }
 
 footer {
@@ -75,9 +76,9 @@ footer
  .blog-post-content>p:first-child:first-letter {
    color: #bb7e5e;
    font-family: Georgia, serif;
-   font-size: 2.5em;
+   font-size: 3em;
    float: left;
-   padding: 0 0.2em 0.1em 0;
+   padding: 0.1em 0.2em 0 0;
  }
 
 article
