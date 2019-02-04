@@ -117,3 +117,17 @@ article.listing
 .hidden {
   display: none;
 }
+
+.example {
+  background:#f5f2f0;
+  left: 2em;
+  font-size: 0.85em;
+  padding: 1em;
+  position: relative;
+}
+
+.example
+  legend {
+    font-size: 0.75em;
+    font-style: italic;
+  }
